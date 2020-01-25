@@ -1,4 +1,4 @@
 # 20171CSE0149-
-ITab
-Wlcome to IT lab
+IT lab
+Welcome to IT lab
 6CSE3
