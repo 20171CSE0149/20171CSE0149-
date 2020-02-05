@@ -1,17 +1,18 @@
-<html>
+<html dir="rlt">
 <head>
 <title>Resume</title>
 </head>
 <body>
 <h1 align="center">LINDAS<hr></h1>
 <p align="center">Anchorage,Ak *(555)555-5555*ex@ex.com. </p>
-<h2>Professional Summary</h2>
+<h2><u>Professional Summary</u></h2>
 <p>With extensive experience in the commercial utilisation of multiple social media channels including Facebook, Twitter and YouTube; I build successful social strategies that increase brand awareness, promote customer engagement and ultimately drive web traffic and conversions. With a degree in psychology and strong business acumen, I bring a customer focused approach to online and social marketing.</p>
-<h2>Work History</h2>
+<h2 id ="s"><u>Work History</u></h2>
+<image src="index.jpeg" alt="nature" border="5" align="right">
 <p><b>Senior machanizer</b>-10/12/2016 <p>
 <p><b>Hallmark</b>-Anchorage,Ak</p>
 <ul>
-<li>With 5+ years of experience in creating digital experiences</li>
+<li>Experience in creating digital experiences</li>
 <li>Proficient in standard UX software</li>
 <li>With specific knowledge of interface patterns for mobile, web, and responsive design (i.e. specific areas)</li>
 <li>With good understanding of HTML, CSS, JAVA</li>
@@ -31,7 +32,7 @@
 <li> Great service comes to us across all industries</li>
 <li>Carlton</li>
 </ul>
-<h2>Skills</h2>
+<h2> <font color="red"><u>Skills</u></font></h2>
 <ul>
 <li>Communication.</li>
 <li>Ability to Work Under Pressure.</li>
@@ -40,11 +41,35 @@
 <li>Self-motivation.</li>
 <li>Conflict Resolution.</li>
 </ul>
-<h2>Education</h2>
-</ul>
-<li>10th</li>
+<h2><u>Education</u></h2>
+<ul>
+<li>10<sup>th</sup></li>
 <li>PU</li>
 <li>Engineering in cse</li>
+<li>Web designing</li>
 </ul>
+<h2>Marks</h2>
+<table border="1">
+<tr>
+<th>python</th>
+<th>java</th>
+<th>c++</th>
+</tr>
+<tr>
+<td>90</td>
+<td>80</td>
+<td>70</td>
+</tr>
+<tr>
+<td>60</td>
+<td>65</td>
+<td>34</td>
+</tr>
+</table><br>
+<a href="https://www.google.com">my gmail</a><br>
+<a href="file:///home/6CSE3/Desktop/Untitled%20Folder/timetable.html"> time table </a><br>
+<a href="#s">click</a><br>
+<a href="timetable.html#p">click</a><br>
+
 </body>
 </html>
